@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_qGetLoginsApplicants" value="name:loginApplicantKey;datatype:,name:login;datatype:,name:password;datatype:,name:Question;datatype:,name:answer;datatype:,name:tag1;datatype:,name:tag2;datatype:,name:dateTimeCreated;datatype:,name:ipAddress;datatype:" />
+</info>

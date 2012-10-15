@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_qGetApplicationStatusLookup" value="name:applicationStatusKey;datatype:,name:applicationStatus;datatype:,name:sortOrder;datatype:" />
+</info>

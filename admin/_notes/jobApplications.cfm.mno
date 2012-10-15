@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_qGetJobApplications" value="name:applicationKey;datatype:,name:firstName;datatype:,name:lastName;datatype:,name:homeAddressCity;datatype:,name:homeAddressState;datatype:,name:lastUpdatedDateTime;datatype:" />
+</info>
