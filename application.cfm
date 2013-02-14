@@ -2,7 +2,10 @@
 
 <cfparam name="session.loggedIn" default="FALSE">
 <cfparam name="session.loginApplicantKey" default="-1">
-<!--- <cfdump var="#cgi#"><cfabort> --->
+<!--- 
+	<cfdump var="#cgi#"><cfabort> 
+	my change
+--->
 <cfif not session.loggedIn AND left(cgi.PATH_INFO,6) neq "/login">
 	<cflocation url="/login">
 </cfif>
